@@ -6,5 +6,13 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 *id Integer - A unique identifier for each person 
 
-This data wil include information about age, sex, ethnicity, country of origin
+*dob Character - a string giving the date of birth 
+
+* spec-date Character - a string giving the date a specimen was taken 
+
+* sex_male Binary - indicates whether the person from whom the specimen was taken was male or not. 
+1 (male) 0 (not male)
+*region Character - a string indicating the England region of laboratory testing the specimen 
+
+ This data wil include information about age, sex, ethnicity, country of origin
 

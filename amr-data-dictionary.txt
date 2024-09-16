@@ -12,7 +12,10 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 * sex_male Binary - indicates whether the person from whom the specimen was taken was male or not. 
 1 (male) 0 (not male)
+
 *region Character - a string indicating the England region of laboratory testing the specimen 
 
- This data wil include information about age, sex, ethnicity, country of origin
+*for person from whom specimen was taken. Range : 1 (least deprived) - 5 (most deprived)
+
+ This data will include information about age, sex, ethnicity, country of origin
 
